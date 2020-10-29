@@ -4,28 +4,8 @@
  #@brief       This is a shell script to connect to a bluetooth device in Linux.
  #@author      Sidharth Dinesh
  #@bugs        No bugs found.
-
-
-
-#
- ######################################################################
- #  Initialization block
- #  ---------------------
- #  This block contains initialization code for this particular file.
- #  It typically contains Includes, constants or global variables used
- #  throughout the file.
- ######################################################################
- #
-
+ 
 #!/bin/bash
-
-#
- ######################################################################
- #  Process block
- #  -------------
- #  Solve all your problems here 
- ######################################################################
- #
 
 #
  ######################################################################
